@@ -1,4 +1,4 @@
-# Research
+# Research  
 
 The Global AI Liability Consortium advances AI liability through research that expands understanding, strengthens professional practice, and informs institutional decision-making.
 
